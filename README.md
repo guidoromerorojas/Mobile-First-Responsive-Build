@@ -1,1 +1,1 @@
-mobile-first responsive design
+mobile first responsive design approach
